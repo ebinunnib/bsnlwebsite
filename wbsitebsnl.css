@@ -1,0 +1,343 @@
+body{
+
+    color: rgb(15, 15, 15);
+    size: 50px;
+}
+.f1{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+a{
+    color: rgb(95, 90, 90);
+}
+.no1{
+    color: rgba(250, 235, 215, 0.027);
+}
+
+
+#b1{
+    height: 360px;
+    width: 1050px;
+    background-color: black;
+    background-image: url(./banner_ott_newyear_addon_1\ bsnl.jpg);
+margin-left: 150px;
+background-size: contain;
+}
+.book1{
+margin-left: 600px;
+width: 150px;
+height: 110px;
+background-image: url(./BharatFibre.gif);
+background-size: contain;
+}
+
+
+.main2{
+    justify-content: space-around;
+background-color: rgba(247, 248, 248, 0);
+width: 75%;
+height: 200px;
+display: flex;
+text-align: center;
+margin: 200px;
+margin-top: 60px;
+}
+
+.s1{
+color: black;
+background-color: rgba(241, 233, 233, 0.041);
+width: 250px;
+height: 200px;
+
+}
+
+
+.s2{
+color: black;
+background-color: rgba(252, 244, 244, 0.068);
+width: 250px;
+height: 200px;
+
+}
+
+.s3{
+color: black;
+background-color: rgba(245, 242, 242, 0.082);
+width: 250px;
+height: 200px;
+
+}
+.s4{
+color: rgba(0, 0, 0, 0.932);
+background-color: rgba(245, 235, 235, 0.021);
+width: 250px;
+height: 200px;
+
+}
+li{
+    text-align: left;
+}
+.t1{
+    background-color: rgb(8, 176, 228);
+height: 80px;
+width: 90%;
+margin-top: -200px;
+margin-left: 70px;
+margin-right: 50px;
+text-align: center;
+size: 50px;
+}
+.p2{
+    text-align: center;
+font-size:large;
+}
+.p1{
+    font-size: xx-large;
+}
+.p3{
+    font-size: medium;
+
+}
+.ofmain3{
+    
+    justify-content: space-around;
+background-color: rgba(247, 248, 248, 0);
+width: 80%;
+height: 200px;
+display: flex;
+text-align: center;
+margin-left: 150px;
+margin-top: 60px;
+}
+
+
+
+.of1{
+    width: 220px;
+    height: 130px;
+    background-size: contain;
+    background-image: url(./offers1.jpeg);
+
+}
+.of2{
+    width: 200px;
+    height: 130px;
+    background-size: contain;
+    background-image: url(./offers2.jpeg);
+   margin-left: 20px;
+    
+
+}
+.of3{
+    width: 200px;
+    height: 130px;
+    background-size: contain;
+    background-image: url(./offer3.jpg);
+    margin-left: 20px;
+}
+.of4{
+    width: 200px;
+    height: 130px;
+    background-size: contain;
+    background-image: url(./offer4.jpeg);
+    margin-left: 20px;
+}
+.of5{
+    width: 200px;
+    height: 130px;
+    background-size: contain;
+    background-image: url(./ofer5.jpg);
+    margin-left: 20px;
+}
+
+
+.ofrmain4{
+    
+justify-content: space-around;
+background-color: rgba(178, 177, 190, 0.021);
+width: 80%;
+height: 200px;
+display: flex;
+text-align: center;
+margin-top: -70px;
+margin-left: 150px;
+
+}
+
+
+.ofr1{
+    width: 300px;
+    height: 50px;
+    background-color: rgba(216, 230, 230, 0.021);
+    margin-left: px;
+    padding: 10px;
+    padding-bottom: 35px;
+}
+.ofr2{
+    width: 300px;
+    height: 50px;
+   background-color: rgba(0, 255, 255, 0);
+   margin-left: 30px;
+    
+}
+.ofr3{
+    width: 300px;
+    height: 50px;
+   background-color: rgba(0, 255, 255, 0);
+   margin-left: 30px;
+}
+.ofr4{
+    width: 300px;
+    height: 50px;
+   background-color: rgba(248, 255, 255, 0.007);
+   margin-left: 20px;
+}
+.ofr5{
+    width: 300px;
+    height: 50px;
+    background-color: rgba(185, 197, 197, 0.014);
+    margin-left: 20px;
+    
+}
+.offf1{
+    font-size: large;
+    text-align: left;
+}
+.offf2{
+    font-size:12px;
+    text-align: left;
+}
+.main5{
+    justify-content:start;
+background-color: rgba(204, 202, 228, 0.027);
+width: 100%;
+height: 50px;
+display: flex;
+
+margin-top: -70px;
+margin-left: 150px;
+padding: 20px;
+
+
+}
+.ch1{
+    width: 200px;
+    height: 30px;
+background-color: rgba(216, 222, 226, 0.192);
+padding: 20px;
+
+margin-top: -20px;
+margin-left: -15px;
+
+
+}
+
+.ch2{
+    width: 200px;
+    height: 30px;
+background-color: rgba(229, 235, 240, 0.199);
+padding: 20px;
+text-align: justify;
+margin-top: -20px;
+margin-left: 10px;
+
+}
+
+.ch3{
+    width: 200px;
+    height: 30px;
+background-color: rgba(211, 214, 218, 0.123);
+
+padding: 20px;
+text-align: justify;
+margin-top: -20px;
+margin-left: 10px;
+}
+
+
+.ch4{
+    width: 500px;
+    height: 30px;
+background-color: rgba(196, 202, 207, 0.151);
+
+padding: 20px;
+text-align: justify;
+margin-top: -20px;
+margin-left: 100px;
+}
+
+.chr1{
+    width: 50%;
+    height: 300px;
+    margin-left: 150px;
+    background-color: rgba(211, 203, 219, 0.219);
+
+}
+.ch1 :hover{
+    color: rgb(6, 235, 37);
+}
+.ch2 :hover{
+    color: chartreuse;
+}
+.ch3 :hover{
+    color: rgb(6, 235, 37);
+}
+.chl1{
+    color: rgb(57, 107, 7);
+}
+.ftr1{
+    
+        justify-content: space-evenly;
+        background-color: rgba(2, 0, 8, 0.945);
+        width: 100%;
+        height: 500px;
+        display: flex;
+        text-align: left;
+        margin-top: -70px;
+        
+    
+}
+.fr1{
+    width: 200px;
+    height: 500px;
+    background-color: rgba(7, 7, 7, 0.082);
+    margin-top: 50px;
+    font-size: medium;
+}
+.fr2{
+    width: 200px;
+    height: 500px;
+    background-color: rgba(5, 5, 5, 0.089);
+margin-top: 50px;
+font-size: medium;
+}
+.fr3{
+    width: 200px;
+    height: 500px;
+    background-color: rgba(8, 8, 8, 0.164);
+    margin-top: 50px;
+    font-size: medium;
+}
+.fr4{
+    width: 200px;
+    height: 500px;
+    background-color: rgba(19, 19, 19, 0.11);
+    margin-top: 50px;
+    font-size: medium;
+}
+.fr5{
+    width: 200px;
+    height: 500px;
+    background-color: rgba(5, 3, 0, 0.116);
+    margin-top: 50px;
+    font-size: medium;
+}
+.fo1{
+    font-size: large;
+    text-align: left;
+    color: rgb(33, 120, 179);
+}
+h2{
+    color: rgb(241, 240, 240);
+}
